@@ -17,8 +17,8 @@ variables:
 
 
   # Azure DevOps
-  ado_service_connection_rg: Azure-ARM-Prod
-  ado_service_connection_aml_ws: Azure-ARM-Prod
+  ado_service_connection_rg: Azure-ARM-Prod-Mlops
+  ado_service_connection_aml_ws: Azure-ARM-Prod-Mlops
 
   # DO NOT TOUCH
 
